@@ -1,6 +1,4 @@
-
-
-variable "ami" {
+variable "ami_value" {
   description = "Concerned with value of ami"
   type = string
 }
